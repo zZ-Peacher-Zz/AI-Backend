@@ -1,0 +1,10 @@
+0 Ba lô
+1 Áo Sơ Mi Tay Dài
+2 Áo Polo
+3 Quần Tây
+4 Áo Khoác
+5 Áo Sweater
+6 Quần Short
+7 Quần Dài
+8 Áo Thun
+9 Quần Jeans
